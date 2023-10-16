@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @chesib and i have 2 dogs <3
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on web dev
 - 📫 @chesibb on ig
 
